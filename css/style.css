@@ -1,0 +1,369 @@
+body{
+
+	width:1600px;
+	height: 2494px;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+
+}
+
+@font-face {
+    font-family: 'RalewayLight';
+    src: url('../fonts/Raleway/-_Ctzj9b56b8RgXW8FAriQzyDMXhdD8sAj6OAJTFsBI.woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('../fonts/Raleway/QAUlVt1jXOgQavlW5wEfxQLUuEpTyoUstqEm5AMlJo4.woff2');
+}
+
+@font-face {
+    font-family: 'RalewaySB';
+    src: url('../fonts/Raleway/xkvoNo9fC8O2RDydKj12bwzyDMXhdD8sAj6OAJTFsBI.woff2');
+}
+
+@font-face {
+    font-family: 'Pacifico';
+    src: url('../fonts/Pacifico/Q_Z9mv4hySLTMoMjnk_rCXYhjbSpvc47ee6xR_80Hnw.woff2'); 
+
+}
+
+.header_info{
+	position: relative;
+	right: 25px;
+}
+
+h1{
+	font-family: 'Pacifico', sans-serif;
+	position: relative;
+	top: -115px;
+	font-size: 60px; 
+
+}
+
+h2{
+	font-family: 'RalewayLight', sans-serif;
+	position: relative;
+	top: -150px;
+	margin-top: 90px;
+	margin-left: 35px;
+	font-size: 36px;
+	right: 25px;
+}
+
+
+.logo{
+	position: relative;
+	top: 10px;
+	right: 15px;
+
+
+}
+
+.dot1 {
+
+	position: relative;
+	bottom: 880px;
+	left: 55px;
+}
+
+.dot2 {
+
+	position: relative;
+	bottom: 822px;
+	right: 75px;
+}
+
+
+.dot3{
+
+	position: relative;
+	bottom: 650px;
+	right: 75px;
+}
+
+.dot4{
+
+	position: relative;
+	bottom: 790px;
+	left: 55px;
+}
+
+.cursor1{
+
+	position: relative;
+	bottom: 920px;
+	left: 60px;
+}
+
+.line{
+
+	position: relative;
+	bottom: 810px;
+	left: 125px;
+}
+h3{
+	font-family: 'RalewaySB', sans-serif;
+	font-size: 22px;
+	padding-bottom: 20px;
+	padding-top: 60px;
+}
+
+p{
+
+	font-family: 'RalewayLight', sans-serif;
+	font-size: 16px;
+	color: gray;
+	line-height: 25px;
+}
+
+#quote {
+	font-size: 24px;
+	font-family: 'RalewayLight', sans-serif;
+	color: black;
+	font-weight: bold;
+}
+
+#name{
+	position: relative;
+	font-family: 'Helvetica-Neue', Helvetica, sans-serif;
+	float: left;
+	font-size: 14px;
+	font-weight:bold;
+	color: black;
+	bottom: 230px;
+	left: 240px;
+}
+
+#occupation{
+	position: relative;
+	font-family: 'Helvetica-Neue', Helvetica, sans-serif;
+	font-size:14px;
+	color: black;
+	top: 25px;
+	left: 10px;
+
+}
+
+#stay {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+#footer_info {
+	font-family: 'Helvetica-Neue', Helvetica, sans-serif;
+	position: relative;
+	float: left;
+	margin-right: 50px;
+	bottom: 20px;
+	left: 420px;
+	text-align: center;
+}
+
+.header{
+	position: relative;
+
+	padding: 220px;
+	background-image: url("../img/large-banner-image.png");
+	text-align: center;
+}
+
+.phone_image{
+	position: relative;
+	top: 0;
+	text-align: center;
+
+}
+
+.phone{
+	position: relative;
+	top: -275px;
+
+}
+
+.arrow{
+	position: relative;
+	bottom: 320px;
+
+}
+
+.features_left{
+	position: relative;
+	text-align: left;
+	bottom: 1080px;
+	padding-left: 265px;
+
+}
+
+.features_right{
+
+	position: relative;
+	text-align: left;
+	bottom: 1430px;
+	padding-left: 1030px;
+
+}
+
+#get_app{
+	position: relative;
+	bottom: 190px;
+	right: 25px;
+}
+
+#get_text{
+	position: relative;
+	bottom: 190px;
+	right: 25px;
+}
+
+.getapp{
+	position: relative;
+	background-color: #e3e3e3;
+	padding: 200px;
+	bottom: 1200px;
+	height: 30px;
+}
+.video_player{
+	position: relative;
+	left: 200px;
+}
+
+.video{
+	position: relative;
+	bottom: 330px;
+	left: 450px;
+}
+
+.videobar{
+	position: relative;
+	bottom: 350px;
+	left: 55px;
+}
+
+.play{
+	position: relative;
+	bottom: 345px;
+	right: 415px;
+} 
+
+.cursor2{
+	position: relative;
+	bottom: 5px;
+	right: 45px;
+
+}
+
+.ports{
+	position: relative;
+	float: left;
+	bottom: 470px;
+	right: 27px;
+}
+
+.android{
+	position: relative;
+	padding-right: 5px;
+	padding-left: 15px;
+
+}
+.windows{
+	position: relative;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+}
+.apple{
+	position: relative;
+	padding-right: 0px;
+	padding-left: 10px
+}
+.testimonials{
+	position: relative;
+	bottom: 1150px;
+	left: 50px;
+	text-align: center;
+}
+
+.banner_imgs{
+	position: relative;
+	left: 15px;
+	bottom: 1400px;
+
+}
+
+.person{
+	position: relative;
+	bottom: 240px;
+	left: 915px;
+}
+
+.cursor3{
+	position: relative;
+	bottom: 245px;
+	left: 840px;
+}	
+
+.stay_text{
+	position: relative;
+	text-align: center;
+	bottom: 1420px;
+	font-weight: bold;
+	left: 15px;
+}
+
+#stay{
+	position: relative;
+	font-family: 'Raleway', sans-serif;
+	color: black;
+	padding-bottom: 20px;
+}	
+
+.social{
+	position: relative;
+	text-align: center;
+	bottom: 1400px;
+	left: 20px;
+}
+
+.twitter{
+	padding-right: 5px;
+}
+.fb{
+	position: relative;
+	padding-right: 5px;
+}
+.pin{
+	position: relative;
+	padding-right: 5px;}
+.google{
+	position: relative;
+	padding-right: 5px;
+}
+.ln{
+	position: relative;
+	padding-right: 5px;
+}
+.yt{
+	position: relative;
+	padding-right: 5px;
+}
+.cursor4{
+	position: relative;
+	right: 155px;
+	top: 5px;
+}
+
+
+.footer{
+	position: relative;
+
+	background-color: #e3e3e3;
+	padding: 70px;
+	height: 1px;
+	bottom: 1345px;
+
+}
+
+
+
